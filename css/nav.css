@@ -1,0 +1,41 @@
+.nav-bar {
+  
+  
+  background-color: rgb(240, 230, 230);
+  border: none;
+  padding: 15px 10px;
+  margin: 0;
+  height: 30px;
+ 
+  
+}
+
+ul {
+  display: block;
+  text-align: center;
+  padding: 0;
+  color:rgb(99, 99, 99);
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(240, 230, 230);
+  border: none;
+  margin: 0;
+  height: 30px;
+  
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+a {
+  color: rgb(99, 99, 99);
+  font-family: Source Sans Pro,Arial, Helvetica;
+  text-decoration: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}

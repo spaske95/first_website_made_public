@@ -1,0 +1,29 @@
+.header {
+  display: block;
+  text-align: center;
+  padding-top: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+}
+#logo-pic {
+  width: 85px;
+  height: 85px;
+}
+h1 
+{
+  padding-bottom: 20px;
+}
+
+#header-a {
+  color:  rgba(255, 255, 255, 0.65); 
+  font-family: Source Sans Pro,Arial, Helvetica;
+  border-bottom-style: dotted;
+  border-bottom-width: 1px;
+}
+span.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+}
